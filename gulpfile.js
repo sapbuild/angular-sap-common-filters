@@ -2,7 +2,6 @@
 
 var gulp = require('gulp');
 var config = require('./gulp-config');
-var build = require('node-sap-build');
 
 var helper = {
     plugins: {},
