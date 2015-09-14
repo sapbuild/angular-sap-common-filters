@@ -1,7 +1,7 @@
 {
   "name": "angular-sap-common-filters",
   "description": "SAP Common BUILD filters",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/sapbuild/angular-sap-common-filters.git"
